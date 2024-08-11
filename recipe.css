@@ -1,0 +1,528 @@
+.ban1
+{
+	height: 65px;
+	width: 100%;
+	align-content: center;
+	color: floralwhite;
+   margin-top: 0px;
+	font-family: segoe script;
+   font-size: 23px;
+   display: flex;
+   margin-bottom:5px;
+}
+h1
+{
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	margin-left: 5px;
+}
+.he1
+{
+	display: flex;
+	background-color: black;
+	margin-bottom: 5px;
+
+}
+.ban2
+{
+	height: 430px;
+	width: 2180px;
+	background-image: url("https://www.tastingtable.com/img/gallery/20-delicious-indian-dishes-you-have-to-try-at-least-once/intro-1645057933.jpg");
+    background-repeat: no-repeat;
+}
+.he2
+{
+	display: flex;
+}
+.box1
+{
+	background-image: url("https://e0.pxfuel.com/wallpapers/768/656/desktop-wallpaper-dark-brown-dark-brown-gradient-thumbnail.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 430px;
+    color: floralwhite;
+    font-family: segoe script;
+    margin-left: 2px;
+    width: 1700px;
+}
+
+
+.b1
+{
+   background-color: #FDFCE8;
+}
+.he3
+{
+	background-color: black;
+	width: 100%;
+	height: 200px;
+	margin-top: 0px;
+}
+.categories
+{
+   display: flex;
+   align-content: center;
+   align-items: center;
+
+}
+.c1
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-image: url("https://static.vecteezy.com/system/resources/thumbnails/021/952/448/small/southern-fried-chicken-fried-chicken-transparent-background-png.png");
+	margin: 0px 25px 0px 40px;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.c2
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/036/498/554/original/ai-generated-paneer-tikka-on-a-white-plate-on-transparent-background-png.png");
+	background-color: black;
+   background-repeat: no-repeat;
+   background-size: contain;
+   margin: 0px 25px 0px 25px;
+   
+}
+.c3
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/039/657/885/non_2x/ai-generated-diwali-plate-of-a-indian-traditional-sweets-png.png");
+	background-color: black;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: 0px 25px 0px 25px;
+   
+}
+.c4
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-image: url("https://static.vecteezy.com/system/resources/thumbnails/029/107/695/small_2x/chocolate-milkshake-with-toppings-on-a-transparent-background-ai-generative-free-png.png");
+	background-color: black;
+   background-size: cover;
+   margin: 0px 25px 0px 25px;
+   
+}
+.c5
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/022/984/272/original/cooked-fish-with-vegetables-free-png.png");
+	background-color: black;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: 0px 25px 0px 25px;
+   
+}
+.c6
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/018/128/195/non_2x/schezwan-noodles-or-szechuan-vegetable-png.png");
+	background-color: black;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: 0px 25px 0px 25px;
+   background-position: center top;
+   
+}
+.c7
+{
+	height: 120px;
+	width: 120px;
+	border-radius: 50%;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/047/589/949/non_2x/delicious-south-indian-thali-png.png");
+	background-color: black;
+   background-repeat: no-repeat;
+   background-size: contain;
+   margin: 0px 25px 0px 25px;
+   
+}
+.c1:hover
+{
+	filter: blur(2px);
+}
+
+.c2:hover
+{
+	filter: blur(2px);
+}
+
+.c3:hover
+{
+	filter: blur(2px);
+}
+
+.c4:hover
+{
+	filter: blur(2px);
+}
+
+.c5:hover
+{
+	filter: blur(2px);
+}
+
+.c6:hover
+{
+	filter: blur(2px);
+}
+
+.c7:hover
+{
+	filter: blur(2px);
+}
+a
+{
+	color: floralwhite;
+	font-family: segoe script;
+}
+a:hover
+{
+	color: #765341;
+}
+.names
+{
+	display: flex;
+}
+
+.he4
+{
+	height: 380px;
+	width: 100;
+	background-color: black;
+	margin-top: 5px;
+}
+.favs
+{
+	display: flex;
+}
+.f1
+{
+	height: 250px;
+	width: 190px;
+	border-radius: 10%;
+	background-color: floralwhite;
+	margin: 30px 30px 30px 70px;
+	background-image: url("https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop.jpg");
+   background-size: cover;
+}
+.f2
+{
+	height: 250px;
+	width: 190px;
+	border-radius: 10%;
+	background-color: floralwhite;
+	margin: 30px 30px 30px 70px;
+   background-image: url("https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2017/07/Pav-Bhaji-H2.jpg?fit=600%2C900&ssl=1");
+   background-size: cover;
+
+}
+.f3
+{
+	height: 250px;
+	width: 190px;
+	border-radius: 10%;
+	background-color: floralwhite;
+	margin: 30px 30px 30px 70px;
+   background-image: url("https://ministryofcurry.com/wp-content/uploads/2020/07/paneer-butter-masala_-2.jpg");
+   background-size: cover;
+}
+.f4
+{
+	height: 250px;
+	width: 190px;
+	border-radius: 10%;
+	background-color: floralwhite;
+	margin: 30px 30px 30px 70px;
+   background-image: url("https://bakewithshivesh.com/wp-content/uploads/2021/10/IMG_3842-scaled.jpg");
+   background-size: cover;
+}
+.f1:hover
+{
+	height: 265px;
+	width: 205px;
+	border-radius: 10;
+}
+.f2:hover
+{
+	height: 265px;
+	width: 205px;
+	border-radius: 10;
+}
+.f3:hover
+{
+	height: 265px;
+	width: 205px;
+	border-radius: 10;
+}
+.f4:hover
+{
+	height: 265px;
+	width: 205px;
+	border-radius: 10;
+}
+.favsn
+{
+	display: flex;
+	width: 100%;
+	background-color: black;
+}
+.n1
+{
+	color: floralwhite;
+	font-family: segoe script;
+	margin: 0px 30px 10px 90px;
+   font-size: 25px;
+   display: flex;
+}
+.he5
+{
+	height: 330px;
+	width: 100;
+	background-color: black;
+	margin-top: 5px;
+}
+.quicks
+{
+	display: flex;
+	
+}
+.q1
+{
+	height: 200px;
+	width: 190px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 30px 30px 70px;
+	background-image: url("https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2014/10/Khaman-Dhokla-H1.jpg?fit=600%2C900&ssl=1");
+   background-size: cover;
+}
+.q2
+{
+	height: 200px;
+	width: 190px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 30px 30px 70px;
+	background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/pk99dh7mnnyan1lnzten");
+   background-size: cover;
+}
+.q3
+{
+	height: 200px;
+	width: 190px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 30px 30px 70px;
+	background-image: url("https://www.indianhealthyrecipes.com/wp-content/uploads/2024/01/mooli-paratha-recipe.jpg");
+   background-size: cover;
+}
+.q4
+{
+	height: 200px;
+	width: 190px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 30px 30px 70px;
+	background-image: url("https://myfancypantry.com/wp-content/uploads/2013/07/pohe.jpg");
+   background-size: cover;
+}
+.q1:hover
+{
+	height: 210px;
+	width: 210px;
+	border-radius: 50%;
+}
+.q2:hover
+{
+	height: 210px;
+	width: 210px;
+	border-radius: 50%;
+}
+.q3:hover
+{
+	height: 210px;
+	width: 210px;
+	border-radius: 50%;
+}
+.q4:hover
+{
+	height: 210px;
+	width: 210px;
+	border-radius: 50%;
+}
+he3
+{
+	font-family: segoe script;
+}
+p
+{
+	font-family: segoe script;
+}
+.text
+{
+	color: floralwhite;
+	background-color: black;
+}
+.he6
+{
+	height: 600px;
+	width: 100%;
+  background-color: floralwhite;
+   display: flex;
+}
+.r1
+{
+	height: 580px;
+	width: 595px;
+	margin-top: 10px;
+	margin-left: 0px;
+	border-radius: 5px;
+   background-color: black;
+}
+.r2
+{
+	height: 580px;
+	width: 598px;
+	margin-top: 10px;
+	margin-left: 5px;
+	border-radius: 5px;
+   background-color: black;
+}
+body
+{
+	background-color: floralwhite;
+}
+h1
+{
+	color: floralwhite;
+	font-family: segoe script;
+}
+.s1
+{
+	height: 90px;
+	width: 90px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 10px 10px 40px;
+	background-image: url("https://assets.epicurious.com/photos/62069cd50297ea306174e51d/1:1/w_4294,h_4294,c_limit/Naan_RECIPE_021022_27679.jpg");
+   background-size: cover;
+}
+.s2
+{
+	height: 90px;
+	width: 90px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 10px 10px 40px;
+	background-image: url("https://www.cookwithmanali.com/wp-content/uploads/2021/07/Tandoori-Roti-500x375.jpg");
+   background-size: cover;
+}
+.s3
+{
+	height: 90px;
+	width: 90px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 10px 10px 40px;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-AMkNfeuJFa1h-IUOub1EGvZIiP71r8WWg&s");
+   background-size: cover;
+}
+.s4
+{
+	height: 90px;
+	width: 90px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 10px 10px 40px;
+	background-image: url("https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/rajendra--sonawane14789505265826fe7dec98a.jpeg");
+   background-size: cover;
+}
+p6
+{
+	color: floralwhite;
+	font-family: segoe script;
+	font-size: 20px;
+   margin: 50px 10px 10px 20px;
+}
+.z1
+{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 20px 10px 10px 40px;
+	background-image: url("https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2022/04/02115837/30.jpg");
+   background-size: cover;
+}
+.z2
+{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 10px 10px 40px;
+	background-image: url("https://www.jiomart.com/images/product/original/491187264/good-life-tur-dal-1-kg-product-images-o491187264-p491187264-4-202306131533.jpg?im=Resize=(420,420)");
+   background-size: cover;
+}
+.z3
+{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 10px 10px 40px;
+	background-image: url("https://5.imimg.com/data5/PR/ZG/IN/SELLER-89043393/urad-dal.jpg");
+   background-size: cover;
+}
+.z4
+{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 30px 10px 10px 40px;
+	background-image: url("https://www.bigbasket.com/media/uploads/p/l/40061795-5_6-bb-royal-chavli-black-eye.jpg");
+   background-size: cover;
+}
+.z5
+{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 20px 10px 10px 70px;
+	background-image: url("https://5.imimg.com/data5/XB/JS/BW/SELLER-29422410/chana-dal-500x500.jpeg");
+   background-size: cover;
+}
+.z6
+{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 20px 10px 10px 100px;
+	background-image: url("https://goodness-farm.com/wp-content/uploads/2023/03/red-masoor-dal-500x500-1.webp");
+   background-size: cover;
+}
+.z7
+{
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	background-color: floralwhite;
+	margin: 20px 10px 10px 90px;
+	background-image: url("https://tiimg.tistatic.com/fp/1/007/969/healthy-nutritious-dried-commonly-cultivated-splited-mix-dal-445.jp");
+   background-size: cover;
+}

@@ -1,0 +1,231 @@
+.ban1
+{
+	height: 360px;
+	width: 643px;
+	background-image: url("https://t4.ftcdn.net/jpg/08/45/24/39/360_F_845243938_lMlSWAFGQfr437H8HXOxh9ZNz4BZjiT5.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    filter: blur(0px);
+}
+body
+{
+	background-color: black;
+}
+.he1
+{
+	display: flex;
+}
+.ban2
+{
+	height: 360px;
+	width: 643px;
+	background-image: url("https://e0.pxfuel.com/wallpapers/768/656/desktop-wallpaper-dark-brown-dark-brown-gradient-thumbnail.jpg");
+	background-size: contain;
+}
+p
+{
+	font-family: segoe script;
+	color: floralwhite;
+	font-size: 19px;
+	margin-top: 3px;
+}
+h2
+{
+	font-family: segoe script;
+	color: floralwhite;
+	
+}
+.m1
+{
+	height: 120px;
+	width: 150px;
+	border-color: floralwhite;
+	border-radius: 5%;
+	background-color: black;
+	margin-left: 5px;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/033/026/008/non_2x/butter-chicken-tikka-masala-served-with-roti-ai-generated-png.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.m1:hover
+{
+	filter: blur(2px);
+}
+.menus
+{
+	display: flex;
+	text-align: center;
+}
+.t1
+{
+	margin-top: 30px;
+	height: 30px;
+	margin-left: 10px;
+}
+a
+{
+	color: floralwhite;
+	font-family: segoe script;
+}
+.menus1
+{
+	display: flex;
+	text-align: center;
+}
+.m2
+{
+	height: 120px;
+	width: 150px;
+	border-color: floralwhite;
+	border-radius: 5%;
+	background-color: black;
+	margin-left: 5px;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/044/628/555/non_2x/3d-rendering-of-a-brown-chicken-tikka-stick-on-transparent-background-png.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.m2:hover
+{
+	filter: blur(2px);
+}
+.menus2
+{
+	display: flex;
+	text-align: center;
+}
+.m3
+{
+	height: 120px;
+	width: 150px;
+	border-color: floralwhite;
+	border-radius: 5%;
+	background-color: black;
+	margin-left: 5px;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/038/450/478/non_2x/ai-generated-a-plate-of-chicken-biryani-isolated-on-transparent-background-free-png.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.m3:hover
+{
+	filter: blur(2px);
+}
+.menus3
+{
+	display: flex;
+	text-align: center;
+}
+.m4
+{
+	height: 120px;
+	width: 150px;
+	border-color: floralwhite;
+	border-radius: 5%;
+	background-color: black;
+	margin-left: 5px;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/046/407/664/original/spicy-full-dish-of-chicken-karahi-or-kadai-korma-masala-served-in-dish-isolated-on-transparent-background-free-png.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.m4:hover
+{
+	filter: blur(2px);
+}
+.he2
+{
+	margin-left: 30px;
+}
+.menus
+{
+	display: flex;
+	text-align: center;
+}
+.t1
+{
+	margin-top: 30px;
+	height: 30px;
+	margin-left: 10px;
+}
+a
+{
+	color: floralwhite;
+	font-family: segoe script;
+}
+.menus1
+{
+	display: flex;
+	text-align: center;
+}
+.n2
+{
+	height: 120px;
+	width: 150px;
+	border-color: floralwhite;
+	border-radius: 5%;
+	background-color: black;
+	margin-left: 5px;
+	background-image: url("https://static.vecteezy.com/system/resources/thumbnails/025/139/317/small_2x/exquisite-chicken-biryani-with-earthen-pot-background-removed-for-maximum-impact-png.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.n2:hover
+{
+	filter: blur(2px);
+}
+.menus2
+{
+	display: flex;
+	text-align: center;
+}
+.n3
+{
+	height: 120px;
+	width: 150px;
+	border-color: floralwhite;
+	border-radius: 5%;
+	background-color: black;
+	margin-left: 5px;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/025/269/639/non_2x/fried-rice-with-ai-generated-free-png.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.n3:hover
+{
+	filter: blur(2px);
+}
+.menus3
+{
+	display: flex;
+	text-align: center;
+}
+.n4
+{
+	height: 120px;
+	width: 150px;
+	border-color: floralwhite;
+	border-radius: 5%;
+	background-color: black;
+	margin-left: 5px;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/036/627/269/non_2x/ai-generated-savory-chicken-dish-on-transparent-background-png.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.n4:hover
+{
+	filter: blur(2px);
+}
+.n1
+{
+	height: 120px;
+	width: 150px;
+	border-color: floralwhite;
+	border-radius: 5%;
+	background-color: black;
+	margin-left: 5px;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/034/760/695/non_2x/ai-generated-mutton-curry-with-rice-in-a-clay-plate-png.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.n1:hover
+{
+	filter: blur(2px);
+}
